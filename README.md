@@ -1,5 +1,7 @@
 # docker-rstudio
 
+Dockerized RStudio v4.1.0
+
 ## Running RStudio
 
 ```bash
